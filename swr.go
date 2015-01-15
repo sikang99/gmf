@@ -2,9 +2,9 @@ package gmf
 
 /*
 
-#cgo pkg-config: libswresample
+#cgo pkg-config: libavresample
 
-#include "libswresample/swresample.h"
+#include "libavresample/avresample.h"
 
 */
 import "C"
